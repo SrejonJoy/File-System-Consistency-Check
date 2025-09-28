@@ -1,0 +1,2 @@
+# File System Consistency Check
+fsck" (File System Consistency Check) is a command-line utility for Unix-like operating systems used to check and optionally repair inconsistencies in a file system, ensuring its metadata integrity. It operates on unmounted partitions to guarantee file system integrity and is a fundamental tool for maintaining disk health, especially after system crashes or unexpected shutdowns.  
